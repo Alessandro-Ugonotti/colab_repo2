@@ -6,3 +6,4 @@ UwU
 Ciao siamo ancora qui
 
 Sto provando a modificare direttamente nel main aprendo la cartella da GitHub desktop
+#Dev1: added_img1
